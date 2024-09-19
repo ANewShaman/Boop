@@ -1,5 +1,1 @@
-hello, how are you?
-...
-well, it doesn't matter anyway.
-i know.
-good.
+hello
